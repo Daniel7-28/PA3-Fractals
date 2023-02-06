@@ -1,7 +1,7 @@
 # PA3-Fractals
 
 ## Description
-    This project is base in put in practice our knowledge of recursion function using fractals. This app has different modes wich you can changes using keys and edit some things of the different fractals that the have. 
+This project is base in put in practice our knowledge of recursion function using fractals. This app has different modes wich you can changes using keys and edit some things of the different fractals that the have. 
 
 ## Specs
 
